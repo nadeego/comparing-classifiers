@@ -1,1 +1,1 @@
-# comparing-classifiers
+# Comparing Classifiers
