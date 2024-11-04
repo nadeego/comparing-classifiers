@@ -19,7 +19,7 @@ The Support Vector Machine produced the best Recall scores with a Training Data 
 
 A high training score with a much lower recall score suggests our model is good at identifiying positive cases in the training data, but not able to generalize this ability. 
 
-Given the baseline recall score of 0, these results are still promising, but more feature engineering and hyperparatmer tuning are needed to improve our results.
+Given the baseline recall score of 0, these results are still promising, but more feature engineering and hyperparameter tuning are needed to improve our results.
 
 ***Support Vector Machine : Recall***
 *   Training Score : .993
